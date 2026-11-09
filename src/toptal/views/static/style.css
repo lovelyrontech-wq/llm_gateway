@@ -1,0 +1,7 @@
+body { font-family: system-ui, sans-serif; max-width: 760px; margin: 2rem auto; padding: 0 1rem; }
+#log { border: 1px solid #ccc; border-radius: 8px; padding: 1rem; min-height: 300px; white-space: pre-wrap; }
+.user { color: #0b5394; margin-top: .75rem; }
+.assistant { margin-top: .25rem; }
+form { display: flex; gap: .5rem; margin-top: 1rem; }
+input[type=text] { flex: 1; padding: .5rem; }
+select, button { padding: .5rem; }
